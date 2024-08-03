@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #f3f1f1;
+}
+
+/* @layer components {
+	.nav-li {
+		@apply flex w-full leading-8 list-none focus:outline-none group py-2 tracking-normal opacity-50 hover:opacity-100 transition-all duration-200 ease-in-out;
+	}
+}
+
+@layer components {
+	.nav-link {
+		@apply h-full w-full py-2 text-lg text-white;
+	}
+} */
